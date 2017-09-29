@@ -1,1 +1,8 @@
---first edit
+Train a Deep Neural Network that learns the relationship between a defocussed image and the sigma map. Then obtain the depth from the sigma map.
+
+TODO
+----
+1. Gather data
+2. Get a network up and running
+3. Iterate over the network model to improve accuracy
+4. Figure out ways to find depth from sigma map with symmetric apperture
